@@ -1,8 +1,8 @@
 {
-  "name": "vue-upload-multiple-image",
+  "name": "vue-upload-image-multiple",
   "description": "A Vue.js project",
-  "version": "1.1.6",
-  "author": "Lee Khang <lekhang2512@gmail.com>",
+  "version": "1.1.7",
+  "author": "Berkay Kara <berrkkra@gmail.com>",
   "license": "MIT",
   "main": "src/main.js",
   "scripts": {
@@ -33,5 +33,16 @@
     "vue-template-compiler": "^2.4.4",
     "webpack": "^3.6.0",
     "webpack-dev-server": "^2.9.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berkaykr/vue-upload-image-multiple.git"
+  },
+  "keywords": [
+    "vuejs"
+  ],
+  "bugs": {
+    "url": "https://github.com/berkaykr/vue-upload-image-multiple/issues"
+  },
+  "homepage": "https://github.com/berkaykr/vue-upload-image-multiple#readme"
 }
